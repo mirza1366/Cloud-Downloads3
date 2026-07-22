@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-1034",
+  "folder": "Software__581.80-notebook-win10-win11-64bit-international-dch-whql_20260722094446_6e34df",
+  "base_name": "Software__581.80-notebook-win10-win11-64bit-international-dch-whql_20260722094446_6e34df.exe",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/mirza1366/Cloud-Downloads3/releases/tag/co-releases-v1-1034",
+  "files": [
+    {
+      "name": "Software__581.80-notebook-win10-win11-64bit-international-dch-whql_20260722094446_6e34df.exe",
+      "url": "https://github.com/mirza1366/Cloud-Downloads3/releases/download/co-releases-v1-1034/Software__581.80-notebook-win10-win11-64bit-international-dch-whql_20260722094446_6e34df.exe",
+      "api_url": "https://api.github.com/repos/mirza1366/Cloud-Downloads3/releases/assets/485783128",
+      "id": 485783128,
+      "size": 896544928,
+      "download_count": 0
+    }
+  ]
+}
